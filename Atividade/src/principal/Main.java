@@ -12,7 +12,7 @@ public class Main {
         int opcao;
 
         do {
-            System.out.println("==== Menu da Agenda de Contatos ====");
+            System.out.println("==== Agenda Telefônica ====");
             System.out.println("1. Adicionar contato no início da agenda");
             System.out.println("2. Adicionar contato no fim da agenda");
             System.out.println("3. Remover contato do início");
